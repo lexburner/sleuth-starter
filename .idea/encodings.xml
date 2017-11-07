@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filter-opentracing" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goods" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkin-server" charset="UTF-8" />
+  </component>
+</project>

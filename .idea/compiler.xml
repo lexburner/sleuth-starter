@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="filter-opentracing" />
+        <module name="goods" />
+        <module name="interface" />
+        <module name="order" />
+        <module name="zipkin-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="filter-opentracing" target="1.8" />
+      <module name="goods" target="1.8" />
+      <module name="interface" target="1.8" />
+      <module name="order" target="1.8" />
+      <module name="sleuth-starter" target="1.8" />
+      <module name="zipkin-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
